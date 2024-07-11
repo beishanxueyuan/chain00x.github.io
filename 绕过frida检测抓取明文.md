@@ -28,6 +28,7 @@ https://www.bilibili.com/read/cv15350941/
 ## frida检测
 
 一hook就闪退
+
 ![image](https://github.com/chain00x/chain00x.github.io/assets/90015694/277c6169-c046-4215-837c-421d2fd1f4ff)
 
 使用如下js
