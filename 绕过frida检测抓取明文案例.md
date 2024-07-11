@@ -335,3 +335,4 @@ AjaxEngineLocal["c"].implementation = function (hs2013) {
 
 ![image](https://github.com/chain00x/chain00x.github.io/assets/90015694/6e949388-a735-4df2-b271-f6584bbc2e33)
 
+最终得到响应
